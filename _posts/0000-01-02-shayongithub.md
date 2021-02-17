@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Learninggg"
 ---
-Your text
-Use the left arrow to go back!
+What the heckk
